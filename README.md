@@ -31,13 +31,6 @@ cd build
 ctest
 ```
 
-## Dependencies:
-
-CMake (version X.X or higher)
-Foo
-Bar
-Contributing:
-
 ## License:
 
 This project is licensed under the MIT License.
